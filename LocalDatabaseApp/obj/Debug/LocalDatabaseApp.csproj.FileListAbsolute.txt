@@ -1,0 +1,11 @@
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\Employee.mdf
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\Employee_log.ldf
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Employee.resources
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\VS\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
